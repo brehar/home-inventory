@@ -1,0 +1,7 @@
+.room-template, .category-template, .item-template {
+    display: none;
+}
+
+.bold {
+    font-weight: bold;
+}
